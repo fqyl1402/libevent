@@ -1,4 +1,0 @@
-libevent
-========
-
-study libevent
